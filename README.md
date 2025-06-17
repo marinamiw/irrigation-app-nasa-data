@@ -14,7 +14,7 @@ A proposta é integrar informações científicas com uma interface simples, ace
 
 ## 🧑‍💻 Tecnologias e Ferramentas
 
-- **Linguagem:** Python [![py](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- **Linguagem:** Python [![py](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 - **Framework Back-end:** FastAPI [![fastapi](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - **Banco de Dados:** MongoDB [![mongodb](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
 - **API Externa:** NASA POWER API 
